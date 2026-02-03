@@ -1,0 +1,8 @@
+# Ignore other lab folder sitting next to this 
+repo
+../DataManipulation_JSONHandling/
+
+# Usual Python / macOS noise
+__pycache__/
+*.pyc
+.DS_Store
